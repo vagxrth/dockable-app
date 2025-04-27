@@ -3,7 +3,6 @@
 
 mod input_tracker;
 use input_tracker::InputTracker;
-use tauri::Manager;
 
 fn main() {
     let log_file_path = "input_log.csv";
@@ -12,7 +11,7 @@ fn main() {
 
     tauri::Builder::default()
         .setup(move |app| {
-            let app_handle = app.handle();
+            let _app_handle = app.handle();
             
             // Start input tracking in a background task
             std::thread::spawn(move || {

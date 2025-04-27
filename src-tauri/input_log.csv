@@ -217,3 +217,104 @@
 2025-04-27T07:33:04.667939Z,keyboard,key_down,{"key":"LControl"}
 2025-04-27T07:33:04.720482Z,keyboard,key_down,{"key":"LControl"}
 2025-04-27T07:33:04.772078Z,keyboard,key_down,{"key":"LControl"}
+2025-04-27T07:38:56.499036Z,mouse,mouse_move,{"location":(513, 735)}
+2025-04-27T07:39:01.856893Z,mouse,mouse_move,{"location":(558, 671)}
+2025-04-27T07:39:01.909375Z,mouse,mouse_move,{"location":(702, 576)}
+2025-04-27T07:39:01.961863Z,mouse,mouse_move,{"location":(835, 552)}
+2025-04-27T07:39:02.013329Z,mouse,mouse_move,{"location":(858, 568)}
+2025-04-27T07:39:02.065619Z,mouse,mouse_move,{"location":(799, 603)}
+2025-04-27T07:39:02.118034Z,mouse,mouse_move,{"location":(399, 642)}
+2025-04-27T07:39:02.169326Z,mouse,mouse_move,{"location":(131, 697)}
+2025-04-27T07:39:02.220927Z,mouse,mouse_move,{"location":(44, 693)}
+2025-04-27T07:39:02.273479Z,mouse,mouse_move,{"location":(111, 554)}
+2025-04-27T07:39:02.325848Z,mouse,mouse_move,{"location":(302, 422)}
+2025-04-27T07:39:02.378274Z,mouse,mouse_move,{"location":(480, 418)}
+2025-04-27T07:39:02.430015Z,mouse,mouse_move,{"location":(625, 499)}
+2025-04-27T07:39:02.689020Z,mouse,mouse_move,{"location":(621, 491)}
+2025-04-27T07:39:02.741535Z,mouse,mouse_move,{"location":(575, 420)}
+2025-04-27T07:39:02.794246Z,mouse,mouse_move,{"location":(468, 254)}
+2025-04-27T07:39:02.845940Z,mouse,mouse_move,{"location":(447, 213)}
+2025-04-27T07:39:02.898529Z,mouse,mouse_move,{"location":(445, 210)}
+2025-04-27T07:39:03.107054Z,mouse,mouse_move,{"location":(430, 196)}
+2025-04-27T07:39:03.159686Z,mouse,mouse_move,{"location":(409, 162)}
+2025-04-27T07:39:03.212263Z,mouse,mouse_move,{"location":(402, 149)}
+2025-04-27T07:39:03.264264Z,mouse,mouse_move,{"location":(399, 145)}
+2025-04-27T07:39:03.315758Z,mouse,mouse_move,{"location":(396, 141)}
+2025-04-27T07:39:03.368177Z,mouse,mouse_move,{"location":(395, 140)}
+2025-04-27T07:39:03.472615Z,mouse,mouse_move,{"location":(391, 132)}
+2025-04-27T07:39:03.524579Z,mouse,mouse_move,{"location":(389, 124)}
+2025-04-27T07:39:03.577150Z,mouse,mouse_move,{"location":(389, 122)}
+2025-04-27T07:39:03.629623Z,mouse,mouse_move,{"location":(390, 122)}
+2025-04-27T07:39:04.684032Z,mouse,mouse_move,{"location":(357, 102)}
+2025-04-27T07:39:04.736080Z,mouse,mouse_move,{"location":(239, 0)}
+2025-04-27T07:39:04.788260Z,mouse,mouse_move,{"location":(191, 0)}
+2025-04-27T07:39:05.049591Z,mouse,mouse_move,{"location":(172, 13)}
+2025-04-27T07:39:05.102613Z,mouse,mouse_move,{"location":(132, 34)}
+2025-04-27T07:39:05.155223Z,mouse,mouse_move,{"location":(102, 51)}
+2025-04-27T07:39:05.206480Z,mouse,mouse_move,{"location":(89, 56)}
+2025-04-27T07:39:05.258908Z,mouse,mouse_move,{"location":(83, 56)}
+2025-04-27T07:39:05.311393Z,mouse,mouse_move,{"location":(74, 52)}
+2025-04-27T07:39:05.364786Z,mouse,mouse_move,{"location":(66, 52)}
+2025-04-27T07:39:05.416816Z,mouse,mouse_move,{"location":(62, 52)}
+2025-04-27T07:39:05.469130Z,mouse,mouse_move,{"location":(61, 52)}
+2025-04-27T07:39:05.521349Z,mouse,mouse_move,{"location":(57, 52)}
+2025-04-27T07:39:05.573050Z,mouse,mouse_move,{"location":(56, 52)}
+2025-04-27T07:39:05.625635Z,mouse,mouse_move,{"location":(56, 51)}
+2025-04-27T07:39:06.248879Z,mouse,mouse_move,{"location":(67, 51)}
+2025-04-27T07:39:06.300854Z,mouse,mouse_move,{"location":(191, 71)}
+2025-04-27T07:39:06.352905Z,mouse,mouse_move,{"location":(643, 187)}
+2025-04-27T07:39:06.405701Z,mouse,mouse_move,{"location":(942, 288)}
+2025-04-27T07:39:06.767887Z,mouse,mouse_down,{"button":1}
+2025-04-27T07:39:07.131058Z,mouse,mouse_move,{"location":(1026, 236)}
+2025-04-27T07:39:07.182788Z,mouse,mouse_move,{"location":(1226, 166)}
+2025-04-27T07:39:07.235785Z,mouse,mouse_move,{"location":(1266, 165)}
+2025-04-27T07:39:07.443868Z,mouse,mouse_down,{"button":1}
+2025-04-27T07:39:07.652759Z,mouse,mouse_move,{"location":(1259, 139)}
+2025-04-27T07:39:07.704286Z,mouse,mouse_move,{"location":(1238, 38)}
+2025-04-27T07:39:07.756581Z,mouse,mouse_move,{"location":(1228, 0)}
+2025-04-27T07:39:07.808757Z,mouse,mouse_move,{"location":(1223, 0)}
+2025-04-27T07:39:07.861269Z,mouse,mouse_move,{"location":(1222, 0)}
+2025-04-27T07:39:07.963723Z,mouse,mouse_move,{"location":(1222, 1)}
+2025-04-27T07:39:08.015922Z,mouse,mouse_move,{"location":(1218, 40)}
+2025-04-27T07:39:08.068751Z,mouse,mouse_move,{"location":(1191, 146)}
+2025-04-27T07:39:08.120902Z,mouse,mouse_move,{"location":(1148, 261)}
+2025-04-27T07:39:08.173303Z,mouse,mouse_move,{"location":(1139, 280)}
+2025-04-27T07:39:08.697889Z,mouse,mouse_move,{"location":(1135, 280)}
+2025-04-27T07:39:08.750375Z,mouse,mouse_move,{"location":(1057, 296)}
+2025-04-27T07:39:08.802528Z,mouse,mouse_move,{"location":(852, 349)}
+2025-04-27T07:39:08.854446Z,mouse,mouse_move,{"location":(742, 386)}
+2025-04-27T07:39:08.906193Z,mouse,mouse_move,{"location":(729, 390)}
+2025-04-27T07:39:10.312281Z,keyboard,key_down,{"key":"Key1"}
+2025-04-27T07:39:10.363837Z,keyboard,key_down,{"key":"Key1"}
+2025-04-27T07:39:10.415580Z,keyboard,key_down,{"key":"Key1"}
+2025-04-27T07:39:10.934675Z,keyboard,key_down,{"key":"Key2"}
+2025-04-27T07:39:10.987466Z,keyboard,key_down,{"key":"Key2"}
+2025-04-27T07:39:11.040352Z,keyboard,key_down,{"key":"Key2"}
+2025-04-27T07:39:11.403590Z,keyboard,key_down,{"key":"Key3"}
+2025-04-27T07:39:11.456137Z,keyboard,key_down,{"key":"Key3"}
+2025-04-27T07:39:11.717312Z,keyboard,key_down,{"key":"Key4"}
+2025-04-27T07:39:11.769850Z,keyboard,key_down,{"key":"Key4"}
+2025-04-27T07:39:11.822494Z,keyboard,key_down,{"key":"Key4"}
+2025-04-27T07:39:12.083557Z,keyboard,key_down,{"key":"Key5"}
+2025-04-27T07:39:12.136933Z,keyboard,key_down,{"key":"Key5"}
+2025-04-27T07:39:12.761492Z,keyboard,key_down,{"key":"Key6"}
+2025-04-27T07:39:12.813906Z,keyboard,key_down,{"key":"Key6"}
+2025-04-27T07:39:13.127293Z,keyboard,key_down,{"key":"Key7"}
+2025-04-27T07:39:13.179002Z,keyboard,key_down,{"key":"Key7"}
+2025-04-27T07:39:13.495336Z,keyboard,key_down,{"key":"Key8"}
+2025-04-27T07:39:13.547756Z,keyboard,key_down,{"key":"Key8"}
+2025-04-27T07:39:13.859636Z,keyboard,key_down,{"key":"Key9"}
+2025-04-27T07:39:14.170760Z,keyboard,key_down,{"key":"Key0"}
+2025-04-27T07:39:18.752279Z,mouse,mouse_move,{"location":(727, 409)}
+2025-04-27T07:39:18.804536Z,mouse,mouse_move,{"location":(722, 485)}
+2025-04-27T07:39:18.856744Z,mouse,mouse_move,{"location":(723, 604)}
+2025-04-27T07:39:18.908927Z,mouse,mouse_move,{"location":(740, 684)}
+2025-04-27T07:39:18.961049Z,mouse,mouse_move,{"location":(745, 697)}
+2025-04-27T07:39:19.377621Z,keyboard,key_down,{"key":"LControl"}
+2025-04-27T07:39:19.430415Z,keyboard,key_down,{"key":"LControl"}
+2025-04-27T07:39:19.481827Z,keyboard,key_down,{"key":"LControl"}
+2025-04-27T07:39:19.534640Z,keyboard,key_down,{"key":"LControl"}
+2025-04-27T07:39:19.587180Z,keyboard,key_down,{"key":"LControl"}
+2025-04-27T07:39:19.639296Z,keyboard,key_down,{"key":"LControl"}
+2025-04-27T07:39:19.691134Z,keyboard,key_down,{"key":"LControl"}
+2025-04-27T07:39:19.743335Z,keyboard,key_down,{"key":"LControl"}
