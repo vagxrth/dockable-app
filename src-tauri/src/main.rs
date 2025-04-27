@@ -19,7 +19,6 @@ fn main() {
         .setup(move |app| {
             let app_handle = app.handle();
             
-            // Start input tracking in a background thread
             std::thread::spawn(move || {
                 let rt = tokio::runtime::Runtime::new().unwrap();
                 rt.block_on(async {
@@ -27,17 +26,14 @@ fn main() {
                 });
             });
 
-            // Create tray menu items
             let quit_item = MenuItem::with_id(app, "quit", "Quit", true, None::<&str>)?;
             let show_item = MenuItem::with_id(app, "show", "Show", true, None::<&str>)?;
 
-            // Create the menu with the items
             let tray_menu = Menu::with_items(app, &[
                 &show_item as &dyn IsMenuItem<_>,
                 &quit_item as &dyn IsMenuItem<_>
             ])?;
 
-            // Create tray icon with the menu
             let icon = Image::from_path("icons/icon.png")?;
             let app_handle_clone = app_handle.clone();
             
@@ -65,7 +61,6 @@ fn main() {
         })
         .on_window_event(|window, event| match event {
             tauri::WindowEvent::CloseRequested { api, .. } => {
-                // When the window is closed, we want to hide it rather than closing the app
                 window.hide().unwrap();
                 api.prevent_close();
             }
@@ -74,7 +69,6 @@ fn main() {
         .build(tauri::generate_context!())
         .expect("error while building tauri application");
     
-    // On macOS, set the activation policy to Accessory to hide from dock
     #[cfg(target_os = "macos")]
     app.set_activation_policy(tauri::ActivationPolicy::Accessory);
     

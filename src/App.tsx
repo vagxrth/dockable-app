@@ -5,7 +5,6 @@ function App() {
   const [logPath, setLogPath] = useState('');
 
   useEffect(() => {
-    // The log file path will be in the app's data directory
     setLogPath('input_log.csv');
   }, []);
 
