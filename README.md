@@ -62,3 +62,6 @@ timestamp,event_type,sub_type,data
 ## Demo
 
 Check out the application in action:
+
+https://github.com/user-attachments/assets/e24fb2ec-0d76-45e2-b644-24dc4a771a24
+
