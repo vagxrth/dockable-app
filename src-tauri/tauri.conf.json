@@ -1,35 +1,53 @@
 {
-  "$schema": "https://schema.tauri.app/config/2",
-  "productName": "tauri-app",
+  "$schema": "../node_modules/@tauri-apps/cli/schema.json",
+  "identifier": "com.input-tracker.dev",
+  "productName": "Input Tracker",
   "version": "0.1.0",
-  "identifier": ".",
   "build": {
+    "beforeBuildCommand": "pnpm build",
     "beforeDevCommand": "pnpm dev",
     "devUrl": "http://localhost:1420",
-    "beforeBuildCommand": "pnpm build",
     "frontendDist": "../dist"
   },
   "app": {
-    "windows": [
-      {
-        "title": "tauri-app",
-        "width": 800,
-        "height": 600
-      }
-    ],
     "security": {
       "csp": null
-    }
+    },
+    "windows": [
+      {
+        "fullscreen": false,
+        "height": 600,
+        "resizable": true,
+        "title": "Input Tracker",
+        "width": 800
+      }
+    ]
   },
   "bundle": {
     "active": true,
-    "targets": "all",
+    "category": "DeveloperTool",
+    "copyright": "",
     "icon": [
       "icons/32x32.png",
       "icons/128x128.png",
       "icons/128x128@2x.png",
       "icons/icon.icns",
       "icons/icon.ico"
-    ]
+    ],
+    "macOS": {
+      "entitlements": null,
+      "exceptionDomain": "",
+      "frameworks": [],
+      "providerShortName": null,
+      "signingIdentity": null
+    },
+    "resources": [],
+    "shortDescription": "",
+    "targets": "all",
+    "windows": {
+      "certificateThumbprint": null,
+      "digestAlgorithm": "sha256",
+      "timestampUrl": ""
+    }
   }
-}
+} 
