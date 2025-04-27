@@ -19,7 +19,9 @@
         "height": 600,
         "resizable": true,
         "title": "Input Tracker",
-        "width": 800
+        "width": 800,
+        "visible": false,
+        "skipTaskbar": true
       }
     ]
   },
