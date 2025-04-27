@@ -1,11 +1,12 @@
 use dioxus::prelude::*;
 
 fn main() {
-    dioxus_desktop::launch(App);
+    dioxus::launch(App);
 }
 
-fn App(cx: Scope) -> Element {
-    cx.render(rsx! {
+#[component]
+fn App() -> Element {
+    rsx! {
         div {
             style: "padding: 2rem; max-width: 800px; margin: 0 auto; font-family: system-ui, -apple-system, sans-serif;",
             h1 {
@@ -37,5 +38,5 @@ fn App(cx: Scope) -> Element {
                 }
             }
         }
-    })
+    }
 } 
